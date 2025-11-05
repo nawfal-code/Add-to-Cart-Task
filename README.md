@@ -14,7 +14,7 @@ It allows users to view products, add them to the cart, remove them, and check t
 - 🌐 Ready for Netlify deployment  
 
 ---
-##🧰 Tech Used
+## 🧰 Tech Used
 - ⚛️ React (Vite) — for fast and modular development
 - 🎨 Tailwind CSS — for styling and responsive layout
 - 🔄 useState & useEffect Hooks — for managing data and lifecycle
@@ -23,7 +23,7 @@ It allows users to view products, add them to the cart, remove them, and check t
 - ☁️ Netlify — for smooth deployment
   
 ---
-##🧠 What I Learned
+## 🧠 What I Learned
 - Fetching and rendering data from external APIs using useEffect
     Managing cart state effectively using useState
 
@@ -57,6 +57,6 @@ Open your browser and visit http://localhost:5173/ 🚀
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Mohammed Nawfal
 Frontend Developer | React & Tailwind Enthusiast
